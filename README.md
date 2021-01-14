@@ -1,4 +1,5 @@
-# mscs710-team-alpacas
+# Dota 2 Winning Team Predictor (Copy)
+This is a public copy of the work our team did in MSCS 710 to create a Dota 2 winning tream predictor.
 
 ## Set up
 ### Anaconda Environment
