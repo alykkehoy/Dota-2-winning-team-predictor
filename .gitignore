@@ -1,0 +1,8 @@
+jupyter notebook/Data/*.csv
+jupyter notebook/Data/yasp_sample.json
+json/test*.json
+csv/*.zip
+csv/*.csv
+.vscode
+__pycache__
+.env
